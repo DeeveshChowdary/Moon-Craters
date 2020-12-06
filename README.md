@@ -1,9 +1,4 @@
 # Crater Detection
-**Austin Cawley-Edwards  
-Stevens Institute of Technology  
-PEP 336: Intro to Astrophysics
-Prof. Vlad Lukic**
-
 
 A basic crater detection implementation in __Python3__.
 
