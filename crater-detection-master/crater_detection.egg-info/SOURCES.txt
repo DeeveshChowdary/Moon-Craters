@@ -1,0 +1,17 @@
+README.md
+setup.cfg
+crater_detection/__init__.py
+crater_detection/cli.py
+crater_detection/util.py
+crater_detection.egg-info/PKG-INFO
+crater_detection.egg-info/SOURCES.txt
+crater_detection.egg-info/dependency_links.txt
+crater_detection.egg-info/entry_points.txt
+crater_detection.egg-info/requires.txt
+crater_detection.egg-info/top_level.txt
+crater_detection/detector/__init__.py
+crater_detection/detector/hough.py
+crater_detection/generator/__init__.py
+crater_detection/models/Crater.py
+crater_detection/models/CraterField.py
+crater_detection/models/__init__.py
